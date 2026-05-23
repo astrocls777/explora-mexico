@@ -1,0 +1,467 @@
+[
+  {
+    "id": "AGS",
+    "name": "Aguascalientes",
+    "capital": "Aguascalientes",
+    "population": 1425557,
+    "area": 5589.04,
+    "region": "Occidente",
+    "description": "Estado ubicado en la región occidente de México, conocido por sus viñedos y festivales.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Aguascalientes", "population": 885842, "area": 500.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Asientos", "population": 23456, "area": 650.5, "description": "Municipio minero"},
+      {"id": "003", "name": "Calvillo", "population": 76543, "area": 1200.3, "description": "Productor de guayabas"}
+    ]
+  },
+  {
+    "id": "BC",
+    "name": "Baja California",
+    "capital": "Mexicali",
+    "population": 3769020,
+    "area": 71450.00,
+    "region": "Noroeste",
+    "description": "Estado del norte mexicano con playas y ciudades fronterizas.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Mexicali", "population": 936826, "area": 14531.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Tijuana", "population": 1810645, "area": 1239.0, "description": "Ciudad fronteriza importante"},
+      {"id": "003", "name": "Tecate", "population": 66743, "area": 1242.0, "description": "Conocida por su cerveza"}
+    ]
+  },
+  {
+    "id": "BCS",
+    "name": "Baja California Sur",
+    "capital": "La Paz",
+    "population": 798447,
+    "area": 73677.00,
+    "region": "Noroeste",
+    "description": "Península desértica con playas paradisiacas y biodiversidad marina.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "La Paz", "population": 244396, "area": 16750.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Los Cabos", "population": 321521, "area": 3751.0, "description": "Destino turístico de lujo"},
+      {"id": "003", "name": "Comondú", "population": 90765, "area": 12165.0, "description": "Municipio rural"}
+    ]
+  },
+  {
+    "id": "CAMP",
+    "name": "Campeche",
+    "capital": "Campeche",
+    "population": 948305,
+    "area": 56857.48,
+    "region": "Sureste",
+    "description": "Estado rico en patrimonio maya y recursos petroleros.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Campeche", "population": 220896, "area": 3859.0, "description": "Capital y patrimonio histórico"},
+      {"id": "002", "name": "Ciudad del Carmen", "population": 202000, "area": 4727.0, "description": "Centro petrolero importante"},
+      {"id": "003", "name": "Champotón", "population": 84500, "area": 5343.0, "description": "Puerto histórico"}
+    ]
+  },
+  {
+    "id": "COAH",
+    "name": "Coahuila",
+    "capital": "Saltillo",
+    "population": 3146519,
+    "area": 151563.00,
+    "region": "Noreste",
+    "description": "Gran estado del norte con recursos minerales y agricultura.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Saltillo", "population": 879702, "area": 3856.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Torreón", "population": 649738, "area": 1946.0, "description": "Centro industrial importante"},
+      {"id": "003", "name": "Monclova", "population": 226518, "area": 10456.0, "description": "Centro metalúrgico"}
+    ]
+  },
+  {
+    "id": "COL",
+    "name": "Colima",
+    "capital": "Colima",
+    "population": 731391,
+    "area": 5627.00,
+    "region": "Occidente",
+    "description": "Pequeño estado costero con playas hermosas.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Colima", "population": 154480, "area": 1104.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Manzanillo", "population": 169635, "area": 1338.0, "description": "Puerto turístico"},
+      {"id": "003", "name": "Tecomán", "population": 123456, "area": 852.0, "description": "Centro agrícola"}
+    ]
+  },
+  {
+    "id": "CHIS",
+    "name": "Chiapas",
+    "capital": "Tuxtla Gutiérrez",
+    "population": 5543828,
+    "area": 73289.00,
+    "region": "Sureste",
+    "description": "Estado con gran biodiversidad y patrimonio maya.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Tuxtla Gutiérrez", "population": 604763, "area": 2375.0, "description": "Capital estatal"},
+      {"id": "002", "name": "San Cristóbal de las Casas", "population": 185917, "area": 2215.0, "description": "Centro colonial importante"},
+      {"id": "003", "name": "Tapachula", "population": 246294, "area": 2447.0, "description": "Frontera con Guatemala"}
+    ]
+  },
+  {
+    "id": "CHIH",
+    "name": "Chihuahua",
+    "capital": "Chihuahua",
+    "population": 3741869,
+    "area": 247455.00,
+    "region": "Noroeste",
+    "description": "Largest state by area, known for the Copper Canyon.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Chihuahua", "population": 819828, "area": 9325.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Ciudad Juárez", "population": 1321960, "area": 5629.0, "description": "Ciudad fronteriza"},
+      {"id": "003", "name": "Parral", "population": 110532, "area": 6256.0, "description": "Centro minero histórico"}
+    ]
+  },
+  {
+    "id": "CDMX",
+    "name": "Ciudad de México",
+    "capital": "Ciudad de México",
+    "population": 9209944,
+    "area": 1494.30,
+    "region": "Centro",
+    "description": "Capital de México, metrópolis con patrimonio histórico y cultural.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Benito Juárez", "population": 429203, "area": 26.7, "description": "Delegación central"},
+      {"id": "002", "name": "Cuauhtémoc", "population": 523373, "area": 32.4, "description": "Centro histórico"},
+      {"id": "003", "name": "Iztapalapa", "population": 1815786, "area": 117.6, "description": "Delegación más poblada"}
+    ]
+  },
+  {
+    "id": "DGO",
+    "name": "Durango",
+    "capital": "Durango",
+    "population": 1754754,
+    "area": 123181.00,
+    "region": "Noroeste",
+    "description": "Estado minero y ganadero del norte.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Durango", "population": 600345, "area": 12500.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Gómez Palacio", "population": 313876, "area": 2247.0, "description": "Centro industrial"},
+      {"id": "003", "name": "Lerdo", "population": 216754, "area": 1891.0, "description": "Municipio industrial"}
+    ]
+  },
+  {
+    "id": "GTO",
+    "name": "Guanajuato",
+    "capital": "Guanajuato",
+    "population": 6166934,
+    "area": 30589.00,
+    "region": "Centro",
+    "description": "Estado colonial con patrimonio histórico excepcional.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Guanajuato", "population": 81437, "area": 1065.0, "description": "Capital colonial"},
+      {"id": "002", "name": "León", "population": 1721237, "area": 1329.0, "description": "Centro industrial de calzado"},
+      {"id": "003", "name": "Celaya", "population": 506482, "area": 1097.0, "description": "Centro agrícola e industrial"}
+    ]
+  },
+  {
+    "id": "GRO",
+    "name": "Guerrero",
+    "capital": "Chilpancingo de los Bravo",
+    "population": 3533251,
+    "area": 63794.00,
+    "region": "Sur",
+    "description": "Estado costero con playas famosas y patrimonio cultural.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Chilpancingo de los Bravo", "population": 282765, "area": 2457.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Acapulco de Juárez", "population": 929934, "area": 1576.0, "description": "Famoso destino de playa"},
+      {"id": "003", "name": "Taxco de Alarcón", "population": 44235, "area": 156.0, "description": "Pueblo mágico de plata"}
+    ]
+  },
+  {
+    "id": "HGO",
+    "name": "Hidalgo",
+    "capital": "Pachuca de Soto",
+    "population": 3082841,
+    "area": 20813.00,
+    "region": "Centro",
+    "description": "Estado con patrimonio prehispánico y colonial.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Pachuca de Soto", "population": 277537, "area": 559.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Tula de Allende", "population": 121289, "area": 314.0, "description": "Centro prehispánico"},
+      {"id": "003", "name": "Huejutla de Reyes", "population": 99843, "area": 1368.0, "description": "Municipio del norte"}
+    ]
+  },
+  {
+    "id": "JAL",
+    "name": "Jalisco",
+    "capital": "Guadalajara",
+    "population": 8348151,
+    "area": 78597.00,
+    "region": "Occidente",
+    "description": "Estado del oeste con cultura y tradiciones vibrantes.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Guadalajara", "population": 5344500, "area": 151.0, "description": "Capital estatal y tapatía"},
+      {"id": "002", "name": "Zapopan", "population": 1393005, "area": 632.0, "description": "Municipio dinámico"},
+      {"id": "003", "name": "Puerto Vallarta", "population": 297755, "area": 1299.0, "description": "Destino de playa famoso"}
+    ]
+  },
+  {
+    "id": "MEX",
+    "name": "México",
+    "capital": "Toluca de Lerdo",
+    "population": 16604471,
+    "area": 22357.00,
+    "region": "Centro",
+    "description": "Estado más poblado después de CDMX, con gran desarrollo industrial.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Toluca de Lerdo", "population": 876405, "area": 414.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Ecatepec de Morelos", "population": 1620284, "area": 84.0, "description": "Municipio muy poblado"},
+      {"id": "003", "name": "Naucalpan de Juárez", "population": 873490, "area": 152.0, "description": "Centro residencial e industrial"}
+    ]
+  },
+  {
+    "id": "MICH",
+    "name": "Michoacán",
+    "capital": "Morelia",
+    "population": 4748846,
+    "area": 58643.00,
+    "region": "Occidente",
+    "description": "Estado con patrimonio colonial y gastronomía reconocida.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Morelia", "population": 784776, "area": 3024.0, "description": "Capital colonial"},
+      {"id": "002", "name": "Lázaro Cárdenas", "population": 208661, "area": 2277.0, "description": "Puerto industrial"},
+      {"id": "003", "name": "Zamora", "population": 179810, "area": 1209.0, "description": "Centro agrícola"}
+    ]
+  },
+  {
+    "id": "MOR",
+    "name": "Morelos",
+    "capital": "Cuernavaca",
+    "population": 1971520,
+    "area": 4893.00,
+    "region": "Centro",
+    "description": "Estado pequeño con patrimonio histórico y balnearios.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Cuernavaca", "population": 369953, "area": 150.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Jiutepec", "population": 208832, "area": 114.0, "description": "Municipio turístico"},
+      {"id": "003", "name": "Tepoztlán", "population": 52633, "area": 230.0, "description": "Pueblo mágico"}
+    ]
+  },
+  {
+    "id": "NAY",
+    "name": "Nayarit",
+    "capital": "Tepic",
+    "population": 1235456,
+    "area": 27857.00,
+    "region": "Occidente",
+    "description": "Estado costero con playas y archipiélagos.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Tepic", "population": 305234, "area": 2619.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Bahía de Banderas", "population": 276537, "area": 2769.0, "description": "Zona turística"},
+      {"id": "003", "name": "Xalisco", "population": 87654, "area": 531.0, "description": "Municipio agrícola"}
+    ]
+  },
+  {
+    "id": "OAX",
+    "name": "Oaxaca",
+    "capital": "Oaxaca de Juárez",
+    "population": 3801962,
+    "area": 95364.00,
+    "region": "Sur",
+    "description": "Estado con rica diversidad cultural y gastronomía prehispánica.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Oaxaca de Juárez", "population": 264307, "area": 548.0, "description": "Capital colonial"},
+      {"id": "002", "name": "Tlacolula de Matamoros", "population": 87654, "area": 1234.0, "description": "Centro cultural zapoteca"},
+      {"id": "003", "name": "Puerto Escondido", "population": 67543, "area": 789.0, "description": "Destino de playa"}
+    ]
+  },
+  {
+    "id": "PUE",
+    "name": "Puebla",
+    "capital": "Puebla de Zaragoza",
+    "population": 6583278,
+    "area": 34290.00,
+    "region": "Centro",
+    "description": "Estado con patrimonio colonial excepcional y gastronomía famosa.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Puebla de Zaragoza", "population": 1596580, "area": 534.0, "description": "Capital colonial"},
+      {"id": "002", "name": "Cholula", "population": 289546, "area": 213.0, "description": "Centro prehispánico importante"},
+      {"id": "003", "name": "Tehuacán", "population": 288739, "area": 1304.0, "description": "Centro industrial"}
+    ]
+  },
+  {
+    "id": "QRO",
+    "name": "Querétaro",
+    "capital": "Santiago de Querétaro",
+    "population": 2368467,
+    "area": 11769.00,
+    "region": "Centro",
+    "description": "Estado en crecimiento con patrimonio histórico y economía dinámica.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Santiago de Querétaro", "population": 1118996, "area": 787.0, "description": "Capital colonial"},
+      {"id": "002", "name": "San Juan del Río", "population": 298364, "area": 1576.0, "description": "Centro industrial"},
+      {"id": "003", "name": "Tequisquiapan", "population": 63789, "area": 337.0, "description": "Pueblo mágico vinícola"}
+    ]
+  },
+  {
+    "id": "QR",
+    "name": "Quintana Roo",
+    "capital": "Chetumal",
+    "population": 1857985,
+    "area": 44204.00,
+    "region": "Sureste",
+    "description": "Estado tropical con cenotes, ruinas mayas y playas paradisiacas.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Chetumal", "population": 166436, "area": 4884.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Cancún", "population": 889141, "area": 1676.0, "description": "Principal destino turístico"},
+      {"id": "003", "name": "Playa del Carmen", "population": 228724, "area": 1484.0, "description": "Centro turístico costero"}
+    ]
+  },
+  {
+    "id": "SLP",
+    "name": "San Luis Potosí",
+    "capital": "San Luis Potosí",
+    "population": 2717820,
+    "area": 63068.00,
+    "region": "Centro",
+    "description": "Estado con riqueza mineral e histórica.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "San Luis Potosí", "population": 824361, "area": 3986.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Soledad de Graciano Sánchez", "population": 265487, "area": 1567.0, "description": "Municipio importante"},
+      {"id": "003", "name": "Tancanhuitz de Santos", "population": 76543, "area": 2341.0, "description": "Municipio huasteco"}
+    ]
+  },
+  {
+    "id": "SIN",
+    "name": "Sinaloa",
+    "capital": "Culiacán Rosales",
+    "population": 3056122,
+    "area": 57377.00,
+    "region": "Noroeste",
+    "description": "Estado costero con agricultura y ganadería importantes.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Culiacán Rosales", "population": 994593, "area": 5006.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Mazatlán", "population": 438371, "area": 3065.0, "description": "Puerto turístico"},
+      {"id": "003", "name": "Los Mochis", "population": 256789, "area": 2945.0, "description": "Centro agrícola"}
+    ]
+  },
+  {
+    "id": "SON",
+    "name": "Sonora",
+    "capital": "Hermosillo",
+    "population": 3025637,
+    "area": 179355.00,
+    "region": "Noroeste",
+    "description": "Estado norteño con desierto, ganadería y minería.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Hermosillo", "population": 936411, "area": 14471.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Ciudad Obregón", "population": 259234, "area": 1527.0, "description": "Centro agrícola"},
+      {"id": "003", "name": "Navojoa", "population": 159876, "area": 3834.0, "description": "Municipio del sur"}
+    ]
+  },
+  {
+    "id": "TAB",
+    "name": "Tabasco",
+    "capital": "Villahermosa",
+    "population": 2402598,
+    "area": 24738.00,
+    "region": "Sureste",
+    "description": "Estado tropical con patrimonio prehispánico y petróleo.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Villahermosa", "population": 396406, "area": 1678.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Cárdenas", "population": 265432, "area": 1563.0, "description": "Municipio petrolero"},
+      {"id": "003", "name": "Paraíso", "population": 87654, "area": 4756.0, "description": "Municipio costero"}
+    ]
+  },
+  {
+    "id": "TAMPS",
+    "name": "Tamaulipas",
+    "capital": "Ciudad Victoria",
+    "population": 3441698,
+    "area": 80175.00,
+    "region": "Noreste",
+    "description": "Estado norteño costero con ganadería y petróleo.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Ciudad Victoria", "population": 394027, "area": 3095.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Reynosa", "population": 589466, "area": 2604.0, "description": "Ciudad fronteriza"},
+      {"id": "003", "name": "Matamoros", "population": 489467, "area": 3724.0, "description": "Puerto fronterizo"}
+    ]
+  },
+  {
+    "id": "TLAX",
+    "name": "Tlaxcala",
+    "capital": "Tlaxcala",
+    "population": 1342977,
+    "area": 3991.00,
+    "region": "Centro",
+    "description": "Smallest state by area, with colonial heritage.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Tlaxcala", "population": 106485, "area": 295.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Apizaco", "population": 223456, "area": 187.0, "description": "Centro industrial"},
+      {"id": "003", "name": "Huamantla", "population": 98765, "area": 563.0, "description": "Municipio cultural"}
+    ]
+  },
+  {
+    "id": "VER",
+    "name": "Veracruz",
+    "capital": "Xalapa-Enríquez",
+    "population": 8112505,
+    "area": 71820.00,
+    "region": "Golfo",
+    "description": "Estado costero con puerto importante y patrimonio prehispánico.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Xalapa-Enríquez", "population": 508123, "area": 1284.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Veracruz", "population": 428323, "area": 1353.0, "description": "Puerto histórico"},
+      {"id": "003", "name": "Orizaba", "population": 117264, "area": 449.0, "description": "Centro industrial textil"}
+    ]
+  },
+  {
+    "id": "YUC",
+    "name": "Yucatán",
+    "capital": "Mérida",
+    "population": 2097361,
+    "area": 39340.00,
+    "region": "Sureste",
+    "description": "Estado con riqueza maya, cenotes y arquitectura colonial.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Mérida", "population": 921340, "area": 4768.0, "description": "Capital estatal"},
+      {"id": "002", "name": "Cancún", "population": 889141, "area": 1676.0, "description": "Centro turístico"},
+      {"id": "003", "name": "Chichén Itzá", "population": 34567, "area": 1201.0, "description": "Sitio arqueológico"}
+    ]
+  },
+  {
+    "id": "ZAC",
+    "name": "Zacatecas",
+    "capital": "Zacatecas",
+    "population": 1662616,
+    "area": 75040.00,
+    "region": "Centro-Norte",
+    "description": "Estado minero con patrimonio colonial exceptunal.",
+    "imageUrl": "",
+    "municipalities": [
+      {"id": "001", "name": "Zacatecas", "population": 138925, "area": 2844.0, "description": "Capital colonial"},
+      {"id": "002", "name": "Fresnillo", "population": 234567, "area": 4890.0, "description": "Centro minero importante"},
+      {"id": "003", "name": "Jerez de García Salinas", "population": 65234, "area": 1845.0, "description": "Pueblo mágico"}
+    ]
+  }
+]
