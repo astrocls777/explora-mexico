@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Explora México</string>
+    <string name="states_description">Selecciona un estado para explorar sus municipios, cultura y datos geográficos</string>
+    <string name="municipalities_title">Municipios</string>
+</resources>
